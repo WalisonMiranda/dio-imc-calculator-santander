@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="app_title">IMC</string>
+    <string name="insert_weight_txt">Insira seu peso (ex: 65.8 kg)</string>
+    <string name="insert_height_txt">Insira sua altura (ex: 1.83 m)</string>
+    <string name="button_calculate_txt">Calcular</string>
+    <string name="severe_obesity_txt">Mais que 40,0  -  OBESIDADE SEVERA</string>
+    <string name="thinness_txt">Menor que 18,5  -  MAGREZA</string>
+    <string name="normal_txt">Entre 18,5 e 24,9  -  NORMAL</string>
+    <string name="overweight_txt">Entre 25,0 e 29,9  -  SOBREPESO</string>
+    <string name="obesity_txt">Entre 30,0 e 39,9  -  OBESIDADE</string>
+    <string name="your_imc">Seu IMC é:</string>
+</resources>

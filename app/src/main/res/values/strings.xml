@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="app_title">IMC</string>
+    <string name="insert_weight_txt">Insert your weight (ex: 65.8 kg)</string>
+    <string name="insert_height_txt">Insert your height (ex: 1.83 m)</string>
+    <string name="button_calculate_txt">Calculate</string>
+    <string name="severe_obesity_txt">More than 40,0  -  SEVERE OBESITY</string>
+    <string name="thinness_txt">Less than 18,5  -  THINNESS</string>
+    <string name="normal_txt">Between 18,5 and 24,9  -  NORMAL</string>
+    <string name="overweight_txt">Between 25,0 and 29,9  -  OVERWEIGHT</string>
+    <string name="obesity_txt">Between 30,0 and 39,9  -  OBESITY</string>
+    <string name="your_imc">Your IMC is:</string>
+</resources>
