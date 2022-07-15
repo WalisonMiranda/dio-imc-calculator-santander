@@ -3,7 +3,7 @@
 IMC App developed at Santander Mobile Bootcamp on Digital Innovation One.
 This app was made for learn about android layouts, views and user Inputs.
 
-## Linguagem utilizada
+## Language used
 
 **Kotlin**
 
